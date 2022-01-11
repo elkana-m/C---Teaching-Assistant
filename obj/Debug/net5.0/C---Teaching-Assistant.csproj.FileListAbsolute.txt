@@ -1,0 +1,15 @@
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/bin/Debug/net5.0/C---Teaching-Assistant.deps.json
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/bin/Debug/net5.0/C---Teaching-Assistant.runtimeconfig.json
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/bin/Debug/net5.0/C---Teaching-Assistant.runtimeconfig.dev.json
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/bin/Debug/net5.0/C---Teaching-Assistant.dll
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/bin/Debug/net5.0/ref/C---Teaching-Assistant.dll
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/bin/Debug/net5.0/C---Teaching-Assistant.pdb
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.csprojAssemblyReference.cache
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.AssemblyInfoInputs.cache
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.AssemblyInfo.cs
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.csproj.CoreCompileInputs.cache
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.dll
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/ref/C---Teaching-Assistant.dll
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.pdb
+/Users/morann/Documents/Classes/Spring 2022/CSIS 336 - C#/exercises/C---Teaching-Assistant/obj/Debug/net5.0/C---Teaching-Assistant.genruntimeconfig.cache
